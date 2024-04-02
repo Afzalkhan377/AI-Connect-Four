@@ -1,10 +1,7 @@
-#
-# ps9pr1.py (Problem Set 9, Problem 1)
-#
+
 # A Connect Four Board class
 #
-# Computer Science 111
-#
+
 
 class Board:
     """ a data type for a Connect Four board with arbitrary dimensions
